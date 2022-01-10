@@ -20,8 +20,6 @@ ImagePicker/build/
 *.ap_
 *.aab
 
-*.so
-
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -102,7 +100,6 @@ app/app.iml
 /app-arm64/
 app-arm64
 
-README.md
 security/dic.txt
 security/proguard-rules.pro
 
